@@ -1,0 +1,13 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Folder>
+  <Placemark>
+    <gx:Track>
+      <when>2010-05-28T02:02:30Z</when>
+      <when>2010-05-28T02:02:33Z</when>
+      <gx:coord>-71.1915322717 42.366549761016 156</gx:coord>
+      <gx:coord>-71.2358416155 42.374660418570 152</gx:coord>
+    </gx:Track>
+  </Placemark>
+</Folder>
+</kml>

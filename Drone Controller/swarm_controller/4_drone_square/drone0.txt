@@ -1,0 +1,32 @@
+1 command
+2 takeoff
+wait for drone 1 step 2
+wait for drone 2 step 2
+wait for drone 3 step 2
+3 mon
+4 mdirection 2
+5 go 0 -100 70 100 m1
+6 ccw 90
+7 go 0 0 70 20 m2
+wait for drone 1 step 7
+wait for drone 2 step 7
+wait for drone 3 step 7
+8 go 100 0 70 100 m2
+9 ccw 90
+10 go 0 0 70 20 m3
+wait for drone 1 step 10
+wait for drone 2 step 10
+wait for drone 3 step 10
+11 go 0 100 70 100 m3
+12 ccw 90
+13 go 0 0 70 20 m4
+wait for drone 1 step 13
+wait for drone 2 step 13
+wait for drone 3 step 13
+14 go -100 0 70 100 m4
+15 ccw 90
+16 go 0 0 70 20 m1
+wait for drone 1 step 16
+wait for drone 2 step 16
+wait for drone 3 step 16
+18 land

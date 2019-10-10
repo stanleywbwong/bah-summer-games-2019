@@ -1,0 +1,19 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Placemark>
+		<name>UAV 1</name>
+		<description>Python Output</description>
+		<Style id="sh_icon">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>resources\icon.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+  		<Point>
+  			<altitudeMode>relativeToGround</altitudeMode>
+    		<coordinates>-77.007514,38.872788,10.0</coordinates>
+  		</Point>
+	</Placemark>
+</kml>

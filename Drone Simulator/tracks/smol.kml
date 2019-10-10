@@ -1,0 +1,21 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Folder>
+  <Placemark>
+    <gx:Track>
+      <when>2019-07-28T02:02:37Z</when>
+      <when>2019-07-28T02:02:40Z</when>
+      <when>2019-07-28T02:02:43Z</when>
+      <when>2019-07-28T02:02:50Z</when>
+      <when>2019-07-28T02:02:55Z</when>
+      <when>2019-07-28T02:03:02Z</when>
+      <gx:coord>-71.261901 42.459876 152</gx:coord>
+      <gx:coord>-71.269091 42.466210 107</gx:coord>
+      <gx:coord>-71.277944 42.467288 50</gx:coord>
+      <gx:coord>-71.294493 42.473820 10</gx:coord>
+      <gx:coord>-71.292024 42.466001 78</gx:coord>
+      <gx:coord>-71.309067 42.478257 140</gx:coord>
+    </gx:Track>
+  </Placemark>
+</Folder>
+</kml>

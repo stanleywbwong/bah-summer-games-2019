@@ -1,0 +1,68 @@
+{
+"title": "Main Menu",
+"content": "Is the drone authorized?",
+"children_label": 
+[
+{"label":"Yes"},
+{"label":"No"}
+],
+"children": [
+{
+"title": "Menu 1",
+"content": "Do nothing. The drone is authorized to be in it's current position.",
+"children_label": [],
+"children": []
+},
+{
+"title": "Menu 2",
+"content": "Does the drone seem to be causing immediate danger?",
+"children_label": 
+[
+{"label":"Yes"},
+{"label":"No"}
+],
+"children": [
+
+{
+"title": "Menu 2.1",
+"content": "Evacuate the area immediately and contact the FAA (866-835-5322).\nAdditionally:",
+"children_label": [{"label": "Locate Drone Pilot"}, {"label": "Activate C-UAS System"}],
+"children": [
+{
+"title": "",
+"content": "",
+"children_label": [],
+"children": []
+}, 
+{
+"title": "",
+"content": "",
+"children_label": [],
+"children": []
+}
+]
+},
+{
+"title": "Menu 2.2",
+"content": "Do the following:",
+"children_label": [{"label": "Locate Drone Pilot"}, {"label": "Activate C-UAS System"}],
+"children": [
+{
+"title": "",
+"content": "",
+"children_label": [],
+"children": []
+}, 
+{
+"title": "",
+"content": "",
+"children_label": [],
+"children": []
+}
+]
+}
+]
+}
+]
+}
+

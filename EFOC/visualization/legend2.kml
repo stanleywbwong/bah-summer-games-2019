@@ -1,0 +1,10 @@
+<ScreenOverlay>
+  <name>Heatmap Legend</name>
+  <Icon>
+    <href>resources\legends\heatLegend.png</href>
+  </Icon>
+  <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+  <screenXY x="350" y="18" xunits="pixels" yunits="pixels"/>
+  <rotationXY x="0.5" y=".5" xunits="fraction" yunits="fraction"/>
+  <size x="0" y=".29" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
