@@ -88,10 +88,6 @@ Timothy Dowling (Denison '21), Allison Greenberg (Cornell '21), Peter Malinovsky
 
 This project was developed as part of the Booz Allen Summer Games program at the Lexington, MA branch.
 
-## License
-
-This project is licensed under Booz Allen etc. __Check with David about this__
-
 ## Acknowledgments
 
 * The original EF development team (Jamie Ter Beest, Aylin Uyar, Sanjana Thirumalai, Alex Tejada, Jeremy White) for permitting us to expand on their project
